@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<title>Css Stuffs with HTML</title>
+</head>
+<body>
+	<h1 style="font-size:60px;">Heading Size is 60PX</h1>
+	<h1 style="color:Blue;">Heading is in Blue</h1>
+</body>
